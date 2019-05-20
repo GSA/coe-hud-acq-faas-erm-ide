@@ -21,3 +21,6 @@ At the [U.S. Department of Housing and Urban Development](https://www.hud.gov/) 
 HUD maintains a library of 951 paper forms, and receives millions of completed paper or scanned form submissions annually. Many of these are processed manually, where a person performs manual data re-entry before archiving the paper form. HUD needs to transition to a digital process, turning paper forms into web-based forms, and ensuring that paper submissions that currently exist and may be submitted in the future are turned into digital submissions. The Government requires all 951 static paper-based forms to be converted into web-based adaptive forms. 
 
 Furthermore, a select number of more complex use cases (5-10) will be integrated through the combination of all the components to provide an end-to-end capability. Section 1.2.1 *(note: in the draft RFQ)* provides one example of an illustrative potential use case the Government intends to address, staggered such that they are addressed relatively simultaneously, through this procurement.
+
+## Other RFIs
+Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
