@@ -1,3 +1,6 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [CoE and HUD](https://github.com/GSA/coe-hud-acquisitions) > FaaS, ERM, and IDE
+
+
 *Note: This is a Request for Information (RFI) only. This is not a Request for Quote (RFQ), Request for Proposal (RFP), or any other type of request for an offer. This is a market research function and does not represent a commitment by the Government to issue a solicitation or award a contract.*
 
 # Cloud Adoption: Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction
