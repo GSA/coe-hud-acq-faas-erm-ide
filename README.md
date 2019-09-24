@@ -10,7 +10,7 @@
 
 ## How to respond to this RFQ
 
-This RFQ was posted to eBuy under XXXX. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-faas-erm-ide/blob/master/RFQ-FaaS-ERM-IDE.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLScC-gK8AxakfgjNkXFH6Ku4PZ6lHR6D_gZgJjUI-xPu6jIy9A/viewform) no later than *October 1, 2019 at noon, eastern*.
+This RFQ was posted to eBuy under RFQ1398293. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-faas-erm-ide/blob/master/RFQ-FaaS-ERM-IDE.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLScC-gK8AxakfgjNkXFH6Ku4PZ6lHR6D_gZgJjUI-xPu6jIy9A/viewform) no later than *October 1, 2019 at noon, eastern*.
 
 Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
 
