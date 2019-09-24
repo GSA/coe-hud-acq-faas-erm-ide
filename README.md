@@ -6,29 +6,31 @@
 
 ---
 
-*Note: This is a Request for Information (RFI) only. This is not a Request for Quote (RFQ), Request for Proposal (RFP), or any other type of request for an offer. This is a market research function and does not represent a commitment by the Government to issue a solicitation or award a contract.*
-
 # Cloud Adoption: Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction
 
-## How to respond to this RFI
+## How to respond to this RFQ
 
-Anyone interested in responding to this RFI with feedback on our [Draft RFQ](Draft-RFQ.pdf) is encouraged to complete [this form](https://forms.gle/ZWWmFmmD8zSRizc16). Please remember to review any artifacts in the repository as well - we'd like your feedback on everything!
+This RFQ was posted to eBuy under XXXX. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-faas-erm-ide/blob/master/RFQ-FaaS-ERM-IDE.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLScC-gK8AxakfgjNkXFH6Ku4PZ6lHR6D_gZgJjUI-xPu6jIy9A/viewform) no later than *October 1, 2019 at noon, eastern*.
 
-**Responses are due no later than May 31, 2019 at noon, eastern.**
+Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
+
+**Responses for the RFQ are due no later than October 9, 2019 at noon, eastern.**
 
 We cannot commit to considering anything sent to us after the deadline above or sent via any other medium.
 
 ## Background
 
-The mission of the [Centers of Excellence](https://coe.gsa.gov/) (CoE), housed within the [General Services Administration](https://gsa.gov) (GSA), is to accelerate Information Technology (IT) modernization, improve the public experience, and reduce legacy IT spending across the Government. CoE accomplishes this by centralizing top government tech talent, leveraging private-sector best practices, and operating with a teaming mindset across Government departments and agencies. To better align with the dynamic effects of such a transformation, CoE provides agency partners with a shared service solution for professional services.
+The mission of the Centers of Excellence (CoE), housed within the General Services Administration (GSA), is to accelerate Information Technology (IT) modernization, improve the public experience, and reduce legacy IT spending across the Government. CoE accomplishes this by centralizing top government tech talent, leveraging private-sector best practices, and operating with a teaming mindset across Government departments and agencies. To better align with the dynamic effects of such a transformation, CoE provides agency partners with a shared service solution for professional services.
 
-At the [U.S. Department of Housing and Urban Development](https://www.hud.gov/) (HUD), the Cloud Adoption CoE was tasked with analyzing systems and applications to recommend optimal pathways to modernization using cloud adoption.
+At the U.S. Department of Housing and Urban Development (HUD), the Cloud Adoption CoE was tasked with analyzing systems and applications to recommend optimal pathways to modernization using cloud adoption.
 
 ## Purpose
 
-HUD maintains a library of 951 paper forms, and receives millions of completed paper or scanned form submissions annually. Many of these are processed manually, where a person performs manual data re-entry before archiving the paper form. HUD needs to transition to a digital process, turning paper forms into web-based forms, and ensuring that paper submissions that currently exist and may be submitted in the future are turned into digital submissions. The Government requires all 951 static paper-based forms to be converted into web-based adaptive forms. 
+The primary purpose of this procurement is for a cloud-based electronic records management (ERM) system to support multiple data sources, as well an intelligent data extraction (IDE) capability for the extraction of written material from paper forms. The first goal is to set up a repository for new and existing records, around which additional data flow automation can be constructed.
 
-Furthermore, a select number of more complex use cases (5-10) will be integrated through the combination of all the components to provide an end-to-end capability. Section 1.2.1 *(note: in the draft RFQ)* provides one example of an illustrative potential use case the Government intends to address, staggered such that they are addressed relatively simultaneously, through this procurement.
+The Government requires conversion of paper-based submissions, which includes standard forms and supporting documentation, to be digitized using intelligent data extraction and ingested into a cloud-based electronic records management ERM solution. HUD maintains a library of 951 paper forms, and receives millions of completed paper or scanned form submissions annually. Many of these are processed manually, where a person performs manual data re-entry before archiving the paper form. HUD plans to transition gradually to a digital process, turning paper forms into web-based forms, while ensuring that paper submissions that currently exist and may be submitted in the future are turned into digital submissions. The Government may require, on an optional basis, all 951 static paper-based forms to be eventually converted into web-based adaptive forms.
 
-## Other RFIs
+In this procurement, a select number of the more complex use cases (~10) may be integrated in the base year through the combination of all the components to provide an end-to-end capability that can be replicated among other forms through exercising them as optional tasks. Section 7.4 provides an initial backlog of epics the Government intends to implement in the base year of performance, staggered such that they are addressed relatively simultaneously, through this procurement. Use cases, which are optional tasks, may be exercised anytime during the period of performance in accordance with FAR Clause 52.217-7 Option for Increased Quantity-Separately Priced Line Item. 
+
+## Other HUD-related work
 Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
